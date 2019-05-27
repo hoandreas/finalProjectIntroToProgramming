@@ -154,7 +154,7 @@ function endGame() {
     reset();
 }
 
-function restart(){
+function logout(){
     // me-restart game ke halaman index
     window.location.href = 'index.html';
 }
